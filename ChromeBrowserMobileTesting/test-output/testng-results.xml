@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Parallel test suite" duration-ms="16729" started-at="2020-09-05T18:59:02 IST" finished-at="2020-09-05T18:59:19 IST">
+    <groups>
+    </groups>
+    <test name="login-android" duration-ms="16729" started-at="2020-09-05T18:59:02 IST" finished-at="2020-09-05T18:59:19 IST">
+      <class name="com.james.tests.Testing">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.james.tests.Testing@23529fee]" name="setUp" is-config="true" duration-ms="7436" started-at="2020-09-05T18:59:02 IST" finished-at="2020-09-05T18:59:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.james.tests.Testing.getAllCustomers()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Galaxy S5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@4ddced80]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getAllCustomers()[pri:0, instance:com.james.tests.Testing@23529fee]" name="getAllCustomers" duration-ms="680" started-at="2020-09-05T18:59:10 IST" finished-at="2020-09-05T18:59:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCustomers -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.james.tests.Testing@23529fee]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-09-05T18:59:10 IST" finished-at="2020-09-05T18:59:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getAllCustomers status=SUCCESS method=Testing.getAllCustomers()[pri:0, instance:com.james.tests.Testing@23529fee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.james.tests.Testing@23529fee]" name="setUp" is-config="true" duration-ms="6793" started-at="2020-09-05T18:59:10 IST" finished-at="2020-09-05T18:59:17 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.james.tests.Testing.testing()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Galaxy S5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[org.testng.TestRunner@4ddced80]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testing()[pri:0, instance:com.james.tests.Testing@23529fee]" name="testing" duration-ms="1781" started-at="2020-09-05T18:59:17 IST" finished-at="2020-09-05T18:59:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.james.tests.Testing@23529fee]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-09-05T18:59:19 IST" finished-at="2020-09-05T18:59:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testing status=SUCCESS method=Testing.testing()[pri:0, instance:com.james.tests.Testing@23529fee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.james.tests.Testing -->
+    </test> <!-- login-android -->
+  </suite> <!-- Parallel test suite -->
+</testng-results>

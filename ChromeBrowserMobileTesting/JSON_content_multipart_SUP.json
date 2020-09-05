@@ -1,0 +1,12 @@
+{
+	"fields":{
+		"project":{
+			"key": "WSDBE"
+		},
+		"customfield_25680":{"value": "Student Loan"},
+		"summary":"Digital Platform execution results",
+		"issueType":{
+			"name": "Test Execution"
+		}
+	}
+}
