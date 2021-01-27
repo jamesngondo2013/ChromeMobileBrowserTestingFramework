@@ -1,10 +1,10 @@
 {
 	"fields":{
 		"project":{
-			"key": "WSDBE"
+			"key": "WSDMY"
 		},
-		"customfield_25680":{"value": "Student Loan"},
-		"summary":"Digital Platform execution results",
+		"customfield_25680":{"value": "Student Reg"},
+		"summary":"My execution results",
 		"issueType":{
 			"name": "Test Execution"
 		}
